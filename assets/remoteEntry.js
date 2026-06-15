@@ -3,7 +3,7 @@ const currentImports = {};
       let moduleMap = {
 "./mount":()=>{
       dynamicLoadingCss(["style-DAVN0ISX.css"], false, './mount');
-      return __federation_import('/appmenu-dist/assets/__federation_expose_Mount-FUZ_Okyw.js').then(module =>Object.keys(module).every(item => exportSet.has(item)) ? () => module.default : () => module)},};
+      return __federation_import('/appmenu-dist/assets/__federation_expose_Mount-DQzIg-Pi.js').then(module =>Object.keys(module).every(item => exportSet.has(item)) ? () => module.default : () => module)},};
       const seen = {};
       const dynamicLoadingCss = (cssFilePaths, dontAppendStylesToHead, exposeItemName) => {
         const metaUrl = import.meta.url;
